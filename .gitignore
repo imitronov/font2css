@@ -1,15 +1,3 @@
 package-lock.json
 
 node_modules
-
-css/*
-
-!css/montserrat.woff.css
-!css/montserrat.woff2.css
-!css/opensans.woff.css
-!css/opensans.woff2.css
-
-font/
-
-!/font/opensans/*
-!/font/montserrat/*
