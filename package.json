@@ -1,0 +1,32 @@
+{
+  "name": "css-font-generator",
+  "version": "1.0.0",
+  "description": "CSS font generator",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imitronov/css-fong-generator.git"
+  },
+  "keywords": [
+    "css",
+    "font",
+    "base64",
+    "font",
+    "font",
+    "generator"
+  ],
+  "author": "Ivan Mitronov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imitronov/css-fong-generator/issues"
+  },
+  "homepage": "https://github.com/imitronov/css-fong-generator#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-font2css": "^0.1.2"
+  }
+}
